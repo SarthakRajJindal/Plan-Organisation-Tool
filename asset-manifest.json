@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Plan-Organisation-Tool/static/css/main.0146a28c.chunk.css",
+    "main.js": "/Plan-Organisation-Tool/static/js/main.2cd882c2.chunk.js",
+    "main.js.map": "/Plan-Organisation-Tool/static/js/main.2cd882c2.chunk.js.map",
+    "runtime-main.js": "/Plan-Organisation-Tool/static/js/runtime-main.e6af9369.js",
+    "runtime-main.js.map": "/Plan-Organisation-Tool/static/js/runtime-main.e6af9369.js.map",
+    "static/js/2.05ffd95e.chunk.js": "/Plan-Organisation-Tool/static/js/2.05ffd95e.chunk.js",
+    "static/js/2.05ffd95e.chunk.js.map": "/Plan-Organisation-Tool/static/js/2.05ffd95e.chunk.js.map",
+    "index.html": "/Plan-Organisation-Tool/index.html",
+    "precache-manifest.4d1e47a204d88d6a763966947d133740.js": "/Plan-Organisation-Tool/precache-manifest.4d1e47a204d88d6a763966947d133740.js",
+    "service-worker.js": "/Plan-Organisation-Tool/service-worker.js",
+    "static/css/main.0146a28c.chunk.css.map": "/Plan-Organisation-Tool/static/css/main.0146a28c.chunk.css.map",
+    "static/js/2.05ffd95e.chunk.js.LICENSE.txt": "/Plan-Organisation-Tool/static/js/2.05ffd95e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6af9369.js",
+    "static/js/2.05ffd95e.chunk.js",
+    "static/css/main.0146a28c.chunk.css",
+    "static/js/main.2cd882c2.chunk.js"
+  ]
+}
