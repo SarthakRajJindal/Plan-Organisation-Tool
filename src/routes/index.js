@@ -8,7 +8,7 @@ import About from "../components/pages/About";
 const AppRouter = () => {
     return (
 
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Fragment>
                 <Navbar></Navbar>
                 <Switch>
