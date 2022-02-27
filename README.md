@@ -1,34 +1,19 @@
-## NOTE:
+# Plan Organization Tool
 
-### THIS IS A POC TO CREATE Proj CLONE USING REACT, REDUX AND MATERIAL-UI and it may contain inspirations from different places.
+## Workflow architecture
+![image](https://user-images.githubusercontent.com/54112921/155879364-9eef8642-6774-47ea-8f74-a881c2626977.png)
 
-This Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tech involved
 
-## Available Scripts
+- React Js for front end of the application.
+- styled-components for components
+- @material-ui for default styling
+- redux to store and persist the highlights and buckets of the user
 
-In the Project directory, you can run:
+## Setup instructions
 
-### `npm install`
-
-Run npm install, to install all the dependencies
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- clone the repository using git clone <repo_url> to your local machine.
+- open the folder where the repository is cloned in vscode or text editor of your choice.
+- open a terminal and run "npm install" in the root directory to install all the necessary libraries
+- now run "npm start" and open browser link "localhost:3000" to view the application.
+- simply add a new board or access a previous one to get a list of buckets and highlights.
