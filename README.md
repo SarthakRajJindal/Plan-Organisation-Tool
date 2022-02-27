@@ -16,3 +16,6 @@
 - clone the repository using git clone <repo_url> to your local machine.
 - open the folder where the repository is cloned in vscode or text editor of your choice.
 - open a terminal and run "npm install" in the root directory to install all the necessary libraries
+- enter "npm start" 
+
+Link for video explaination for the submission https://drive.google.com/drive/folders/1In4q3mKWgzB7NfLvsDV0MlWYulzK7_o8?usp=sharing
